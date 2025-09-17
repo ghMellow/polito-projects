@@ -1,5 +1,3 @@
-# polito-projects
-
 # Progetti Politecnico di Torino
 
 Raccolta di tutti i miei progetti universitari organizzati per materia.
