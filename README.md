@@ -26,10 +26,6 @@ Raccolta di tutti i miei progetti universitari organizzati per materia.
 
 ## 🚀 Come usare
 Ogni progetto è indipendente. Clona solo quello che ti serve:
-
 \`\`\`bash
 git clone https://github.com/tuonome/polito-ase.git
 \`\`\`
-
-## 📧 Contatti
-[Le tue informazioni di contatto se vuoi]
