@@ -19,6 +19,10 @@ Raccolta di tutti i miei progetti universitari organizzati per materia.
 ### Web Application
 - **Repository:** [polito-webapp](https://github.com/ghMellow/polito-webapp)
 
+### MLVM (Machine Learning for Vision and Multimedia)
+- **Repository:** [polito-mlvm](https://github.com/ghMellow/polito-mlvm)
+
+
 ## 🚀 Come usare
 Ogni progetto è indipendente. Clona solo quello che ti serve:
 
