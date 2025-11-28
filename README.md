@@ -19,6 +19,9 @@ Raccolta di tutti i miei progetti universitari organizzati per materia.
 ### MLVM (Machine Learning for Vision and Multimedia)
 - **Repository:** [polito-mlvm](https://github.com/ghMellow/polito-mlvm)
 
+### ECAI (Efficient Computing for Artificial Intelligence)
+- **Repository:** [polito-ecai](https://github.com/ghMellow/polito-ecai)
+
 ### MLPR (Machine Learning and Pattern Recognition)
 - **Repository:** [polito-mlpr](https://github.com/ghMellow/polito-mlpr)
 
