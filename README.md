@@ -28,6 +28,9 @@ Raccolta di tutti i miei progetti universitari organizzati per materia.
 ### Big Data
 - **Repository:** [polito-bigdata](https://github.com/ghMellow/polito-bigdata)
 
+### GAN (Generative Adversarial Networks)
+- **Repository:** [polito-gan](https://github.com/ghMellow/polito-gan)
+
 ### Web Application
 - **Repository:** [polito-webapp](https://github.com/ghMellow/polito-webapp)
 
